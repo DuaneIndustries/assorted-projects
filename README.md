@@ -14,7 +14,10 @@ Please use [NBviewer](https://nbviewer.jupyter.org/) in order to view the intera
 
 ## Housing Market List v. Sale Price : 2018-2021 (EDA)
 
-For this project we visualize data from Zillow's Median List Price and Median Sale Price Datasets. We look at the overall US market trend during this timeframe, and trends within different percentiles.
-![housing_percentile_chart](https://user-images.githubusercontent.com/69173891/113487060-d0d24580-9483-11eb-899e-a25156b9304e.jpg)
-We then take a closer look at the current market in California.  
+For this project we visualize data from Zillow's Median List Price and Median Sale Price Datasets. We look at the overall US market trend during this timeframe, and trends within different percentiles.  
+  
+![housing_percentile_chart](https://user-images.githubusercontent.com/69173891/113487060-d0d24580-9483-11eb-899e-a25156b9304e.jpg)  
+  
+We then take a closer look at the current market in California:  
+
 ![California_housing_2021](https://user-images.githubusercontent.com/69173891/113487073-e8a9c980-9483-11eb-97c2-654d7ee8c9d6.jpg)
