@@ -17,11 +17,12 @@ Please use [NBviewer](https://nbviewer.jupyter.org/) in order to view the intera
 For this project we visualize and compare data from Zillow's Median List Price and Median Sale Price Datasets. We look at the overall US market trend during this timeframe, and trends within different percentiles.  
  
  
-![percentile_chart_housing_1](https://user-images.githubusercontent.com/69173891/113899874-3e8bb380-979b-11eb-9067-23fd8f40a3c2.jpg)
+![percentile_chart_housing_1](https://user-images.githubusercontent.com/69173891/113900344-b6f27480-979b-11eb-98c0-2d49f5ff423b.jpg)
 
   
 We then take a closer look at the current market in California:  
 
 
-![California_housing_bar](https://user-images.githubusercontent.com/69173891/113899924-49464880-979b-11eb-8e7c-fecaff96986a.jpg)
+![California_housing_bar](https://user-images.githubusercontent.com/69173891/113900369-bce85580-979b-11eb-9d9d-8916acc4c3cb.jpg)
+
 
